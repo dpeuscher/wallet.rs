@@ -1699,7 +1699,7 @@ dependencies = [
 [[package]]
 name = "librocksdb-sys"
 version = "6.17.3"
-source = "git+https://github.com/iotaledger/rust-rocksdb?rev=d2c579660e6c72ec1f14f0f2781cef5e3171d380#d2c579660e6c72ec1f14f0f2781cef5e3171d380"
+source = "git+https://github.com/dpeuscher/rust-rocksdb?rev=4371da7eb3eb497da857a9e09a776965997ff6f6"
 dependencies = [
  "bindgen",
  "cc",
